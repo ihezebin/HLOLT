@@ -55,8 +55,9 @@ HLOLT 将海克斯助手、战绩查询、战局分析、生涯个性化和常�
 
 ## 功能截图
 
-以下为桌面端界面的演示截图，使用脱敏数据；战绩与战局不代表真实玩家表现。海克斯介绍截图更新于 2026-11-09，展示功能介绍与待命页面，不代表真实游戏识别验证；其余截图保留此前版本的界面展示。实际内容以所用版本、客户端状态及可获取的数据为准。
+以下 **51 张截图均于 2026-11-09 重新拍摄**，覆盖桌面主页面、常用子页面、独立面板及官网知识库。截图使用演示账号与样例数据；战绩、画像、评分、海克斯统计与会员价格仅用于展示界面。战局侧边面板和知识浮窗使用模拟环境，不代表真实游戏内验证；暂无样例资料的页面保留真实空状态。实际内容以发布版本、客户端状态与可获取的数据为准。
 
+先看六张主页面截图，再展开下方各组查看完整功能截图。
 ### 战绩查询 · 回顾每一局的细节
 
 从近期胜负到单局详情，查看英雄、KDA、伤害与对局记录。
@@ -65,7 +66,7 @@ HLOLT 将海克斯助手、战绩查询、战局分析、生涯个性化和常�
 
 ### 战局分析 · 了解当前队伍
 
-集中查看当前队伍的召唤师信息、近期战绩与分析标签，为对局准备提供参考。
+集中查看当前队伍的召唤师信息、近期战绩与分析标签；截图同时展示模拟客户端侧边面板。
 
 ![HLOLT 战局分析与近期战绩](assets/p2.png)
 
@@ -92,6 +93,215 @@ HLOLT 将海克斯助手、战绩查询、战局分析、生涯个性化和常�
 明暗主题、详情布局与字体，在外观设置中统一调整。
 
 ![HLOLT 外观设置、主题与字体选项](assets/p6.png)
+
+### 更多功能页面
+
+按功能分组展开查看。长页面保留整页截图；游戏设置按分类展示，较长的英雄禁选页面另附下半部分。
+
+<details>
+<summary><strong>战绩、战局与玩家画像（11 张）</strong></summary>
+
+**战绩组合筛选与方案**
+
+![HLOLT 战绩组合筛选与方案](assets/history-filter.webp)
+
+**战局待命状态**
+
+![HLOLT 战局待命状态](assets/analysis-waiting.webp)
+
+**客户端侧边分析面板（模拟窗口）**
+
+![HLOLT 客户端侧边分析面板（模拟窗口）](assets/analysis-side-panel.webp)
+
+**玩家画像与近期表现**
+
+![HLOLT 玩家画像与近期表现](assets/player-profile.webp)
+
+**画像：贡献指标**
+
+![HLOLT 画像：贡献指标](assets/profile-contribution.webp)
+
+**画像：英雄与位置**
+
+![HLOLT 画像：英雄与位置](assets/profile-champions.webp)
+
+**画像：英雄熟练度**
+
+![HLOLT 画像：英雄熟练度](assets/profile-mastery.webp)
+
+**画像：共同对局**
+
+![HLOLT 画像：共同对局](assets/profile-together.webp)
+
+**画像：对局时间线**
+
+![HLOLT 画像：对局时间线](assets/profile-timeline.webp)
+
+**画像：玩家标记**
+
+![HLOLT 画像：玩家标记](assets/profile-records.webp)
+
+**玩家标记管理（空状态）**
+
+![HLOLT 玩家标记管理（空状态）](assets/player-records.webp)
+
+</details>
+
+<details>
+<summary><strong>生涯状态与游戏设置（11 张）</strong></summary>
+
+**生涯背景选择**
+
+![HLOLT 生涯背景选择](assets/career-background.webp)
+
+**召唤师头像选择**
+
+![HLOLT 召唤师头像选择](assets/career-avatar.webp)
+
+**英雄禁选**
+
+![HLOLT 英雄禁选](assets/game-champions.webp)
+
+**英雄禁选：更多设置**
+
+![HLOLT 英雄禁选：更多设置](assets/game-champions-more.webp)
+
+**英雄配置**
+
+![HLOLT 英雄配置](assets/game-loadout.webp)
+
+**英雄选择器**
+
+![HLOLT 英雄选择器](assets/champion-picker.webp)
+
+**英雄资料查询**
+
+![HLOLT 英雄资料查询](assets/champion-reference.webp)
+
+**社交互动与聊天模板**
+
+![HLOLT 社交互动与聊天模板](assets/game-social.webp)
+
+**对局辅助**
+
+![HLOLT 对局辅助](assets/game-assistance.webp)
+
+**计时工具**
+
+![HLOLT 计时工具](assets/game-timers.webp)
+
+**客户端工具**
+
+![HLOLT 客户端工具](assets/game-client.webp)
+
+</details>
+
+<details>
+<summary><strong>海克斯资料与独立面板（9 张）</strong></summary>
+
+**数据观察**
+
+![HLOLT 数据观察](assets/mayhem-observations.webp)
+
+**玩家玩法与属性建议**
+
+![HLOLT 玩家玩法与属性建议](assets/mayhem-playstyles.webp)
+
+**避坑参考（无资料状态）**
+
+![HLOLT 避坑参考（无资料状态）](assets/mayhem-traps.webp)
+
+**装备推荐**
+
+![HLOLT 装备推荐](assets/mayhem-equipment.webp)
+
+**海克斯组合**
+
+![HLOLT 海克斯组合](assets/mayhem-combos.webp)
+
+**高胜率海克斯**
+
+![HLOLT 高胜率海克斯](assets/mayhem-augments.webp)
+
+**卡槽推荐预览（效果示意）**
+
+![HLOLT 卡槽推荐预览（效果示意）](assets/mayhem-preview.webp)
+
+**独立知识浮窗：玩法与方案**
+
+![HLOLT 独立知识浮窗：玩法与方案](assets/knowledge-panel.webp)
+
+**独立知识浮窗：外观设置**
+
+![HLOLT 独立知识浮窗：外观设置](assets/knowledge-settings.webp)
+
+</details>
+
+<details>
+<summary><strong>账号、会员与应用设置（6 张）</strong></summary>
+
+**会员权益**
+
+![HLOLT 会员权益](assets/membership.webp)
+
+**账号菜单**
+
+![HLOLT 账号菜单](assets/account-menu.webp)
+
+**通用设置**
+
+![HLOLT 通用设置](assets/settings-general.webp)
+
+**功能速览**
+
+![HLOLT 功能速览](assets/settings-features.webp)
+
+**问题反馈**
+
+![HLOLT 问题反馈](assets/settings-feedback.webp)
+
+**关于与更新**
+
+![HLOLT 关于与更新](assets/settings-about.webp)
+
+</details>
+
+<details>
+<summary><strong>官网与公开知识库（8 张）</strong></summary>
+
+**官网首页（完整长页）**
+
+![HLOLT 官网首页（完整长页）](assets/website-home.webp)
+
+**强化图鉴**
+
+![HLOLT 强化图鉴](assets/web-augments.webp)
+
+**英雄图鉴**
+
+![HLOLT 英雄图鉴](assets/web-champions.webp)
+
+**装备图鉴**
+
+![HLOLT 装备图鉴](assets/web-equipment.webp)
+
+**英雄详情（完整长页）**
+
+![HLOLT 英雄详情（完整长页）](assets/web-hero.webp)
+
+**移动端知识库：深色主题**
+
+![HLOLT 移动端知识库：深色主题](assets/web-mobile-dark.webp)
+
+**移动端知识库：浅色主题**
+
+![HLOLT 移动端知识库：浅色主题](assets/web-mobile-light.webp)
+
+**移动端英雄详情**
+
+![HLOLT 移动端英雄详情](assets/web-hero-mobile.webp)
+
+</details>
 
 ## 下载与开始使用
 

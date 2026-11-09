@@ -1,0 +1,220 @@
+{
+  "captured_on": "2026-11-09",
+  "environment": "Playwright + local Vite; mock API and Electron IPC; no live game verification",
+  "total_screenshots": 51,
+  "groups": [
+    {
+      "title": "战绩、战局与玩家画像",
+      "screenshots": [
+        {
+          "file": "history-filter.webp",
+          "caption": "战绩组合筛选与方案"
+        },
+        {
+          "file": "analysis-waiting.webp",
+          "caption": "战局待命状态"
+        },
+        {
+          "file": "analysis-side-panel.webp",
+          "caption": "客户端侧边分析面板（模拟窗口）"
+        },
+        {
+          "file": "player-profile.webp",
+          "caption": "玩家画像与近期表现"
+        },
+        {
+          "file": "profile-contribution.webp",
+          "caption": "画像：贡献指标"
+        },
+        {
+          "file": "profile-champions.webp",
+          "caption": "画像：英雄与位置"
+        },
+        {
+          "file": "profile-mastery.webp",
+          "caption": "画像：英雄熟练度"
+        },
+        {
+          "file": "profile-together.webp",
+          "caption": "画像：共同对局"
+        },
+        {
+          "file": "profile-timeline.webp",
+          "caption": "画像：对局时间线"
+        },
+        {
+          "file": "profile-records.webp",
+          "caption": "画像：玩家标记"
+        },
+        {
+          "file": "player-records.webp",
+          "caption": "玩家标记管理（空状态）"
+        }
+      ]
+    },
+    {
+      "title": "生涯状态与游戏设置",
+      "screenshots": [
+        {
+          "file": "career-background.webp",
+          "caption": "生涯背景选择"
+        },
+        {
+          "file": "career-avatar.webp",
+          "caption": "召唤师头像选择"
+        },
+        {
+          "file": "game-champions.webp",
+          "caption": "英雄禁选"
+        },
+        {
+          "file": "game-champions-more.webp",
+          "caption": "英雄禁选：更多设置"
+        },
+        {
+          "file": "game-loadout.webp",
+          "caption": "英雄配置"
+        },
+        {
+          "file": "champion-picker.webp",
+          "caption": "英雄选择器"
+        },
+        {
+          "file": "champion-reference.webp",
+          "caption": "英雄资料查询"
+        },
+        {
+          "file": "game-social.webp",
+          "caption": "社交互动与聊天模板"
+        },
+        {
+          "file": "game-assistance.webp",
+          "caption": "对局辅助"
+        },
+        {
+          "file": "game-timers.webp",
+          "caption": "计时工具"
+        },
+        {
+          "file": "game-client.webp",
+          "caption": "客户端工具"
+        }
+      ]
+    },
+    {
+      "title": "海克斯资料与独立面板",
+      "screenshots": [
+        {
+          "file": "mayhem-observations.webp",
+          "caption": "数据观察"
+        },
+        {
+          "file": "mayhem-playstyles.webp",
+          "caption": "玩家玩法与属性建议"
+        },
+        {
+          "file": "mayhem-traps.webp",
+          "caption": "避坑参考（无资料状态）"
+        },
+        {
+          "file": "mayhem-equipment.webp",
+          "caption": "装备推荐"
+        },
+        {
+          "file": "mayhem-combos.webp",
+          "caption": "海克斯组合"
+        },
+        {
+          "file": "mayhem-augments.webp",
+          "caption": "高胜率海克斯"
+        },
+        {
+          "file": "mayhem-preview.webp",
+          "caption": "卡槽推荐预览（效果示意）"
+        },
+        {
+          "file": "knowledge-panel.webp",
+          "caption": "独立知识浮窗：玩法与方案"
+        },
+        {
+          "file": "knowledge-settings.webp",
+          "caption": "独立知识浮窗：外观设置"
+        }
+      ]
+    },
+    {
+      "title": "账号、会员与应用设置",
+      "screenshots": [
+        {
+          "file": "membership.webp",
+          "caption": "会员权益"
+        },
+        {
+          "file": "account-menu.webp",
+          "caption": "账号菜单"
+        },
+        {
+          "file": "settings-general.webp",
+          "caption": "通用设置"
+        },
+        {
+          "file": "settings-features.webp",
+          "caption": "功能速览"
+        },
+        {
+          "file": "settings-feedback.webp",
+          "caption": "问题反馈"
+        },
+        {
+          "file": "settings-about.webp",
+          "caption": "关于与更新"
+        }
+      ]
+    },
+    {
+      "title": "官网与公开知识库",
+      "screenshots": [
+        {
+          "file": "website-home.webp",
+          "caption": "官网首页（完整长页）"
+        },
+        {
+          "file": "web-augments.webp",
+          "caption": "强化图鉴"
+        },
+        {
+          "file": "web-champions.webp",
+          "caption": "英雄图鉴"
+        },
+        {
+          "file": "web-equipment.webp",
+          "caption": "装备图鉴"
+        },
+        {
+          "file": "web-hero.webp",
+          "caption": "英雄详情（完整长页）"
+        },
+        {
+          "file": "web-mobile-dark.webp",
+          "caption": "移动端知识库：深色主题"
+        },
+        {
+          "file": "web-mobile-light.webp",
+          "caption": "移动端知识库：浅色主题"
+        },
+        {
+          "file": "web-hero-mobile.webp",
+          "caption": "移动端英雄详情"
+        }
+      ]
+    }
+  ],
+  "main_screenshots": [
+    "p1.png",
+    "p2.png",
+    "p3.png",
+    "p4.png",
+    "p5.png",
+    "p6.png"
+  ]
+}
